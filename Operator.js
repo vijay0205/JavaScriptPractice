@@ -1,0 +1,14 @@
+let x=20;
+let y=10;
+console.log(x+y);
+console.log(y-x);
+console.log(x*y);
+console.log(x/y);
+console.log(x%y);
+x=x+1;
+console.log(x);
+console.log(++x);
+x=x+y;
+console.log(x);
+x+=y;
+console.log(x);
